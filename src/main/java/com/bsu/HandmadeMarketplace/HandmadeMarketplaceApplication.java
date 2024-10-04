@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class HandmadeMarketplaceApplication {
 
 	public static void main(String[] args) {
-		SpringAparketplaceApplication.class, args);
+		SpringApplication.run(HandmadeMarketplaceApplication.class, args);
 	}
 
 }
